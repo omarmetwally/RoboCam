@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058408459508",
+    "firebase_url": "https://senior-project-must.firebaseio.com",
+    "project_id": "senior-project-must",
+    "storage_bucket": "senior-project-must.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058408459508:android:a226446eec0b5c10",
+        "android_client_info": {
+          "package_name": "com.github.niqdev.ipcam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058408459508-gs4k9tb1e1ltabnlck0ldj9i9gvdmrv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.niqdev.ipcam",
+            "certificate_hash": "6a037123590bdf570e8c123293aff498bb54fafa"
+          }
+        },
+        {
+          "client_id": "1058408459508-gcugi1723onbflcjlbj48c36bi7sllcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEJPWOdoTQO_TkUifFlZwrBQJvcvNWvdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058408459508-gcugi1723onbflcjlbj48c36bi7sllcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
